@@ -1,5 +1,4 @@
-﻿{
-	"data":[
+﻿[
 		{
 			"id":0,
 			"source_photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apple_park_cupertino_2019.jpg/1920px-Apple_park_cupertino_2019.jpg",
@@ -8,37 +7,37 @@
 		},
 {
 			"id":1,
-			"source_photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apple_park_cupertino_2019.jpg/1920px-Apple_park_cupertino_2019.jpg",
+			"source_photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Ward_Cunningham_-_Commons-1.jpg/255px-Ward_Cunningham_-_Commons-1.jpg",
 			"title_photo":"Apple 1",
-			"description_photo":"Apple Inc. là một Tập đoàn công nghệ đa quốc gia của Mỹ có trụ sở chính tại Cupertino, California, chuyên Thiết kế, phát triển và bán thiết bị điện tử tiêu dùng, phần mềm máy tính và các Dịch vụ trực tuyến. Nó được coi là một trong năm công ty lớn của ngành công nghệ thông tin Hoa Kỳ , cùng với Amazon, Google, Microsoft và Meta."
+			"description_photo": "have independently evolved a trunk and branches as a way to tower above other plants to compete for sunlight. The majority of tree species are angiosperms or hardwoods; of the rest, many are gymnosperms or softwoods. Trees tend to be long-lived, some reaching several thousand years old. Trees have b"
 		},
 
 {
 			"id":2,
-			"source_photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apple_park_cupertino_2019.jpg/1920px-Apple_park_cupertino_2019.jpg",
+			"source_photo":"https://upload.wikimedia.org/wikipedia/commons/2/21/Apple_Watch_%28Space_Grey_42mm%29.png",
 			"title_photo":"Apple 2",
-			"description_photo":"Apple Inc. là một Tập đoàn công nghệ đa quốc gia của Mỹ có trụ sở chính tại Cupertino, California, chuyên Thiết kế, phát triển và bán thiết bị điện tử tiêu dùng, phần mềm máy tính và các Dịch vụ trực tuyến. Nó được coi là một trong năm công ty lớn của ngành công nghệ thông tin Hoa Kỳ , cùng với Amazon, Google, Microsoft và Meta."
+			"description_photo": "Apple Inc. là một Tập đoàn công nghệ đa quốc gia của Mỹ có trụ sở chính tại Cupertino, California, chuyên Thiết kế, phát triển và bán thiết bị điện tử tiêu dùng, phần mềm máy tính và các Dịch vụ trực tuyến. Nó được coi là một trong năm công ty lớn của ngành công nghệ thông tin Hoa Kỳ , cùng với Amazon, Google, Microsoft và Meta."
 		},
 
 {
 			"id":3,
-			"source_photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apple_park_cupertino_2019.jpg/1920px-Apple_park_cupertino_2019.jpg",
+			"source_photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Geological_time_spiral.png/120px-Geological_time_spiral.png",
 			"title_photo":"Apple 3",
-			"description_photo":"Apple Inc. là một Tập đoàn công nghệ đa quốc gia của Mỹ có trụ sở chính tại Cupertino, California, chuyên Thiết kế, phát triển và bán thiết bị điện tử tiêu dùng, phần mềm máy tính và các Dịch vụ trực tuyến. Nó được coi là một trong năm công ty lớn của ngành công nghệ thông tin Hoa Kỳ , cùng với Amazon, Google, Microsoft và Meta."
+			"description_photo":"Above ground, the branches divide into smaller branches and shoots. The shoots typically bear leaves, which capture light energy and convert it  Kỳ , cùng với Amazon, Google, Microsoft và Meta."
 		},
 
 {
 			"id":4,
-			"source_photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apple_park_cupertino_2019.jpg/1920px-Apple_park_cupertino_2019.jpg",
+			"source_photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Apple-tv-4k-1st-gen.jpg/300px-Apple-tv-4k-1st-gen.jpg",
 			"title_photo":"Apple 4",
-			"description_photo":"Apple Inc. là một Tập đoàn công nghệ đa quốc gia của Mỹ có trụ sở chính tại Cupertino, California, chuyên Thiết kế, phát triển và bán thiết bị điện tử tiêu dùng, phần mềm máy tính và các Dịch vụ trực tuyến. Nó được coi là một trong năm công ty lớn của ngành công nghệ thông tin Hoa Kỳ , cùng với Amazon, Google, Microsoft và Meta."
+			"description_photo":"Trees play a significant role in reducing erosion and moderating the climate. They remove carbon dioxide from the atmosphere and store large quantities of carbon in their tissues. Trees and forests provide a habitat for many species of animals and plants. Tropical rainforests are among the mos"
 		},
 
 {
 			"id":5,
-			"source_photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apple_park_cupertino_2019.jpg/1920px-Apple_park_cupertino_2019.jpg",
+			"source_photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mac_Mini_M1_chip.jpg/330px-Mac_Mini_M1_chip.jpg",
 			"title_photo":"Apple 5",
-			"description_photo":"Apple Inc. là một Tập đoàn công nghệ đa quốc gia của Mỹ có trụ sở chính tại Cupertino, California, chuyên Thiết kế, phát triển và bán thiết bị điện tử tiêu dùng, phần mềm máy tính và các Dịch vụ trực tuyến. Nó được coi là một trong năm công ty lớn của ngành công nghệ thông tin Hoa Kỳ , cùng với Amazon, Google, Microsoft và Meta."
+			"description_photo":"provide shade and shelter, timber for construction, fuel for cooking and heating, and fruit for food as well as having many other uses. In parts of the world, forests are shrinking as trees are cleared to increase the amount of land"
 		},
 
 {
@@ -50,23 +49,22 @@
 
 {
 			"id":7,
-			"source_photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apple_park_cupertino_2019.jpg/1920px-Apple_park_cupertino_2019.jpg",
+			"source_photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/330px-Mercury_in_true_color.jpg",
 			"title_photo":"Apple 7",
-			"description_photo":"Apple Inc. là một Tập đoàn công nghệ đa quốc gia của Mỹ có trụ sở chính tại Cupertino, California, chuyên Thiết kế, phát triển và bán thiết bị điện tử tiêu dùng, phần mềm máy tính và các Dịch vụ trực tuyến. Nó được coi là một trong năm công ty lớn của ngành công nghệ thông tin Hoa Kỳ , cùng với Amazon, Google, Microsoft và Meta."
+			"description_photo":"Although tree is a term of common parlance, there is no universally recognised precise definition of what a tree is, either botanically or in common language.[1][2] In its broadest sense, a tree is any plant with t	"
 		},
 
 {
 			"id":8,
-			"source_photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apple_park_cupertino_2019.jpg/1920px-Apple_park_cupertino_2019.jpg",
+			"source_photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/The_Blue_Marble_%28remastered%29.jpg/90px-The_Blue_Marble_%28remastered%29.jpg",
 			"title_photo":"Apple 8",
-			"description_photo":"Apple Inc. là một Tập đoàn công nghệ đa quốc gia của Mỹ có trụ sở chính tại Cupertino, California, chuyên Thiết kế, phát triển và bán thiết bị điện tử tiêu dùng, phần mềm máy tính và các Dịch vụ trực tuyến. Nó được coi là một trong năm công ty lớn của ngành công nghệ thông tin Hoa Kỳ , cùng với Amazon, Google, Microsoft và Meta."
+			"description_photo":"Ngày Trái Đất giờ đây được điều phối toàn cầu bởi Mạng Ngày Trái Đất (Earth Day Network) và được tổ chức hằng năm tại hơn 192 quốc gia. Nhiều cộng đồng…"
 		},
 		{
 			"id": 9,
-			"source_photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apple_park_cupertino_2019.jpg/1920px-Apple_park_cupertino_2019.jpg",
+			"source_photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Googleplex_HQ.jpg/90px-Googleplex_HQ.jpg",
 			"title_photo": "Apple 9",
-			"description_photo": "Apple Inc. là một Tập đoàn công nghệ đa quốc gia của Mỹ có trụ sở chính tại Cupertino, California, chuyên Thiết kế, phát triển và bán thiết bị điện tử tiêu dùng, phần mềm máy tính và các Dịch vụ trực tuyến. Nó được coi là một trong năm công ty lớn của ngành công nghệ thông tin Hoa Kỳ , cùng với Amazon, Google, Microsoft và Meta."
+			"description_photo": "ngữ (Google Dịch), lập bản đồ và điều hướng (Google Maps, Waze, Google Earth, Chế độ xem phố), chia sẻ video (YouTube), ghi chú (Google Keep) và tổ chức…"
 		}
-
 	]
-}
+

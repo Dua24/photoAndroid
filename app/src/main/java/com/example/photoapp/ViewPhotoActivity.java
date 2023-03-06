@@ -10,6 +10,8 @@ import com.example.photoapp.PhotoData;
 import com.example.recyclerview.R;
 import com.squareup.picasso.Picasso;
 
+import org.json.JSONException;
+
 public class ViewPhotoActivity extends AppCompatActivity {
 
     ImageView iv_detail;
@@ -25,8 +27,20 @@ public class ViewPhotoActivity extends AppCompatActivity {
 
         int id = (int) getIntent().getLongExtra("id", 0);
 //        new DownloadImage(iv_detail).excute(PhotoData.getPhotoFromId(id).getSource_photo())
-        Picasso.get().load((PhotoData.getPhotoFromId(id).getSource_photo())).resize(400,500).centerCrop().into(iv_detail);
-        tv_detail_title.setText((PhotoData.getPhotoFromId(id).getTitle_photo()));
-        tv_detail_description.setText(PhotoData.getPhotoFromId(id).getDescription_photo());
+        try {
+            Picasso.get().load((PhotoData.getPhotoFromId(id).getSource_photo())).resize(400,500).centerCrop().into(iv_detail);
+        } catch (JSONException e) {
+            throw new RuntimeException(e);
+        }
+        try {
+            tv_detail_title.setText((PhotoData.getPhotoFromId(id).getTitle_photo()));
+        } catch (JSONException e) {
+            throw new RuntimeException(e);
+        }
+        try {
+            tv_detail_description.setText(PhotoData.getPhotoFromId(id).getDescription_photo());
+        } catch (JSONException e) {
+            throw new RuntimeException(e);
+        }
     }
 }
